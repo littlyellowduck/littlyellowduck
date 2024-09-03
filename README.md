@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**littlyellowduck/littlyellowduck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 个人简介 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🫰🫰🫰大家好！我是福州大学2022届计算机与大数据学院的一名女生，专业是计算机科学。
+
+🦞🦞🦞在这个充满逻辑与创意的领域里，我沉浸在代码的海洋中，不断探索技术的边界。编程不仅是我的专业，更是我表达自我、解决问题的独特方式。
+
+🍸🍸🍸除了对技术的痴迷，我还热爱生活，享受每一个简单而美好的瞬间。旅行让我领略世界的广阔，摄影则是我捕捉生活点滴美好的方式。同时，我也是一个书虫，通过阅读来丰富自己的内心世界，拓宽视野。
+
+😍😍😍在这里，我希望能结识到志同道合的朋友，无论是同样热爱编程的伙伴，还是对生活有独到见解的知己。我们可以一起探讨技术的难题，分享学习的乐趣；也可以一起漫步在校园的林荫道上，畅谈人生理想。
+
+💓💓💓我相信，每一次的交流都会让我们更加接近彼此，共同成长。期待与你的相遇！
+## 个人资料 📚
+
+---
+
+**姓名**：黄俊瑶
+
+**性别**：女
+
+**年龄**：20
+
+**电话**：18150831175
+
+**学校**：福州大学  
+
+**学院**：计算机与大数据学院
+
+**专业**：计算机科学与技术
+
